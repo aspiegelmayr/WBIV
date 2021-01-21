@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+Header {
+  background-color: black;
+}
+
+.view1 {
+  background-color: lightblue;
+  height: 300px;
+  outline: 2px solid black;
+}
+
+.view2 {
+  background-color: lightcoral;
+  height: 300px;
+  outline: 2px solid black;
+}
